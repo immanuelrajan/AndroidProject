@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_clickpicture">Take Picture</string>
+    <string name="button_clickpictureagain">Take Picture Again</string>
+</resources>
