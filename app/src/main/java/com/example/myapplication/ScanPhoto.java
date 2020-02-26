@@ -25,7 +25,7 @@ public class ScanPhoto extends AppCompatActivity {
 
     //keep track of cropping intent
     final int PIC_CROP = 3;
-    
+    //change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
